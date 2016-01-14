@@ -1,4 +1,7 @@
 # Sendega - Send SMS from the command line
+
+Download from https://github.com/ON-IT/Sendega.exe/releases/latest
+
 ``` 
 Usage: Sendega.exe -u SID -p password -s sender -d destination -m message
 
